@@ -1,4 +1,4 @@
-https://github.com/willianzocolau/parallelism/actions/workflows/minitest/badge.svg
+![minitest](https://github.com/willianzocolau/parallelism/actions/workflows/main.yml/badge.svg)
 
 # Parallelism
 
