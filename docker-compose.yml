@@ -1,0 +1,7 @@
+version: '3'
+services:
+  app:
+    build: .
+    command: sh -c 'while true; do sleep 60; done'
+    volumes:
+      - .:/app
